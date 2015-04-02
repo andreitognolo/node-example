@@ -5,7 +5,8 @@
   "main": "server.js",
   "engines" : { "npm" : "1.2.30" },
   "dependencies": {
-    "mongodb": "~1.4.0"
+    "mongodb": "~1.4.0",
+    "connect": "2.26.6"
   },
   "repository": {
     "type": "git",
