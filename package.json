@@ -3,7 +3,7 @@
   "version": "0.0.1-SNAPSHOT",
   "description": "Node example",
   "main": "server.js",
-  "engines" : { "npm" : "1.2.30" },
+  "engines" : { "npm" : "1.4.9" },
   "dependencies": {
     "mongodb": "~1.4.0",
     "connect": "2.26.6"
