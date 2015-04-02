@@ -5,8 +5,7 @@
   "main": "server.js",
   "engines" : { "npm" : "1.4.9" },
   "dependencies": {
-    "mongodb": "~1.4.0",
-    "connect": "2.26.6"
+    "karma": "0.12.31"
   },
   "repository": {
     "type": "git",
