@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines" : { "npm" : "1.4.9" },
   "dependencies": {
-    "karma": "0.12.31"
+    "imagemagick-native": "1.7.0"
   },
   "repository": {
     "type": "git",
