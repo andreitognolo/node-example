@@ -4,8 +4,8 @@
   "description": "Node example",
   "main": "server.js",
   "engines" : { "npm" : "1.4.9" },
-  "dependencies": {
-    "imagemagick-native": "1.7.0"
+  "devDependencies": {
+    "phantomjs": "1.9.7"
   },
   "repository": {
     "type": "git",
