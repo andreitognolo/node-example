@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines" : { "npm" : "1.4.9" },
   "devDependencies": {
-    "phantomjs": "1.9.7"
+    "phantomjs": "1.8.2"
   },
   "repository": {
     "type": "git",
