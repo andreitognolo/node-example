@@ -4,6 +4,9 @@
   "description": "Node example",
   "main": "server.js",
   "engines" : { "npm" : "1.4.9" },
+  "dependencies": {
+    "protactor": "2.1.0"
+  },
   "devDependencies": {
     "phantomjs": "1.9.8"
   },
